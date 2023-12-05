@@ -1,4 +1,4 @@
-import divide as t
+import nextPermutation as t
 
 test = t.Solution()
-print(test.divide(267, 12))
+print(test.nextPermutation([5, 1, 2, 4, 1]))
